@@ -1,0 +1,5 @@
+# 表示忽略node_modules这个文件夹
+/node_modules
+# 表示忽略text.js这个文件
+text.js
+# 12390
